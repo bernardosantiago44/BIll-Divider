@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  Divider
+
+  Created by Bernardo Santiago Marin on 17/04/22.
+  
+*/
+
+"bills" = "Bills";
+"tips" = "Tips";
+"tip_description" = "Calculate the tip amount of a bill.";
+"start" = "Start";
+"divider" = "Divider";
+"divide_equally" = "Divide equally";
+"split" = "Split";
+"add_person" = "Add person";
+"name" = "Name";
+"remove_person" = "Remove";
+"contribution" = "Contribution: ";
+"summary" = "Summary";
+"tip" = "Tip";
+"records" = "Records";
+"title" = "Title";
+"save_record" = "Save record";
+"save" = "Save";
+"cancel" = "Cancel";
+"delete_selected_check" = "Delete selected records?";
+"delete_selected_category" = "Delete selected category?";
+"delete" = "Delete";
+"empty_record_data_information" = "You can save records to review them later tapping the save button in a summary.";
+"reset_configuration" = "Reset";
+"delete_record" = "Delete Record";
+"check_saved_successfully" = "Bill saved successfully.";
+"category_saved_successfully" = "Category created successfully";
+"category_deleted_successfully" = "Category deleted successfully";
+"check_saving_error" = "There was an error saving the data. Please, try again.";
+"check_deleted_successfully" = "Record deleted successfully.";
+"file_does_not_exist" = "Error: file does not exist.";
+"deleting_error" = "There was an error deleting the data. Please, try again.";
+
+//MARK: Tip calculator
+"bill_amount" = "Bill amount";
+"done" = "Done";
+"percentage" = "Tip: ";
+"people" = "People: ";
+"tip_amount" = "Tip amount";
+"total" = "Total";
+"each_person_pays" = "Each person pays";
+"notes" = "Notes";
+
+//MARK: - Premade categories
+"food_and_drinks" = "Food and drinks";
+"fun" = "Fun";
+"coffee" = "Coffee";
+
+//MARK: - Settings
+"settings" = "Settings";
+"categories" = "Categories";
+"my_categories" = "My categories";
+"create_custom_categories_information" = "You can create custom categories and assign an icon and color.";
+"default_categories" = "Default categories";
+"custom_categories" = "Custom categories";
+"create_new_category" = "Create new category";
+"category_name" = "Category name";
+"add" = "Add";
+"search" = "Search";
+"information" = "Información";
+"show_onboarding" = "Onboarding view";
+"tabs" = "Tabs";
+"language" = "Language";
+"ui_settings" = "User Interface";
+"app_version" = "Version";
+
+// MARK: - Currencies
+"currencies" = "Currencies";
+"choose_currency" = "Choose currency";
+"common_currencies" = "Common currencies";
+"all_currencies" = "All currencies";
+"saving_currency_info" = "This bill will be saved in ";
+"no_set_currency" = "No set currency.";
+"bill_currency_saved" = "This bill was saved in";
+
+// MARK: - Onboarding
+"welcome" = "Welcome";
+"split_bills" = "Split bills";
+"split_bills_description" = "Split bills among friends, either equally or proportionally.";
+"save_bills" = "Save records";
+"save_bills_description" = "Save your records and review them later.";
+"select_currencies_description" = "Select the currency that best fits the occasion.";
+"organize_with_tags" = "Organize with Tags";
+"tags_description" = "Easily add custom categories to organize your bills.";
+"continue" = "Continue";
+
+// MARK: - Accessibility description
+"bill-amount-text-field" = "The total of the bill, without tip.";
+"tip-to-add" = "The tip to be added.";
+"total-with-tip" = "Bill total with tip added.";
+"divides-the-bill-equally" = "Divides the bill equally and everyone pays the same.";
+"person-name-text-field" = "Name.";
+"person-consumed-field" = "How much they consumed.";
+"contribution-to-make" = "How much they have to contribute (tip included).";
+"dismiss-keyboard" = "Dismiss keyboard.";
+"tip-percentage" = "Tip percentage amount.";
+"reset-divider" = "Clear the displayed information.";
+"create-category-button" = "Create category.";
+"search-currencies" = "Search currencies.";
+
+// MARK: - Privacy
+"privacy" = "Privacy";

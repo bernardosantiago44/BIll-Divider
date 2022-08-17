@@ -1,0 +1,108 @@
+/* 
+  Localizable.strings
+  Divider
+
+  Created by Bernardo Santiago Marin on 17/04/22.
+  
+*/
+
+"bills" = "Cuentas";
+"tips" = "Propinas";
+"tip_description" = "Calcula la propina de una cuenta.";
+"start" = "Empezar";
+"divider" = "Divisor";
+"divide_equally" = "Dividir por igual";
+"split" = "Dividir";
+"add_person" = "Agregar persona";
+"name" = "Nombre";
+"remove_person" = "Quitar";
+"contribution" = "Contribución: ";
+"summary" = "Resumen";
+"tip" = "Propina";
+"records" = "Guardado";
+"title" = "Título";
+"save_record" = "Guardar cuenta";
+"save" = "Guardar";
+"cancel" = "Cancelar";
+"delete_selected_check" = "¿Eliminar selección?";
+"delete_selected_category" = "¿Eliminar categoría seleccionada?";
+"delete" = "Eliminar";
+"empty_record_data_information" = "Puede guardar una cuenta para revisarla más tarde seleccionando el botón de guardar en el resumen. ";
+"reset_configuration" = "Reestablecer";
+"delete_record" = "Eliminar cuenta";
+"check_saved_successfully" = "Cuenta guardada correctamente.";
+"category_saved_successfully" = "Categoría guardada correctamente.";
+"category_deleted_successfully" = "Categoría eliminada correctamente.";
+"check_saving_error" = "Ocurrió un error al guardar la información. Por favor, intente de nuevo.";
+"check_deleted_successfully" = "Selección eliminada correctamente.";
+"file_does_not_exist" = "Error: no existe el documento.";
+"deleting_error" = "Ocurrió un error al eliminar la información. Por favor, intente de nuevo.";
+
+//MARK: - Tip calculator
+"bill_amount" = "Total de la cuenta";
+"done" = "Listo";
+"percentage" = "Propina: ";
+"people" = "Personas: ";
+"tip_amount" = "Propina";
+"total" = "Total";
+"each_person_pays" = "Cada persona paga";
+"notes" = "Notas";
+
+//Mark: - Premade categories
+"food_and_drinks" = "Comida y bebidas";
+"fun" = "Diversión";
+"coffee" = "Café";
+
+//Mark: - Settings
+"settings" = "Configuración";
+"categories" = "Categorías";
+"my_categories" = "Mis categorías";
+"create_custom_categories_information" = "Puede crear categorías personalizadas con íconos y colores.";
+"default_categories" = "Categorías";
+"custom_categories" = "Mis categorías";
+"create_new_category" = "Nueva categoría";
+"category_name" = "Nombre";
+"add" = "Agregar";
+"search" = "Buscar";
+"information" = "Información";
+"show_onboarding" = "Información de introducción";
+"tabs" = "Pestañas";
+"language" = "Idioma";
+"ui_settings" = "Interfáz";
+"app_version" = "Versión";
+
+// Mark: - Currencies
+"currencies" = "Divisas";
+"choose_currency" = "Elegir divisa";
+"common_currencies" = "Divisas comunes";
+"all_currencies" = "Todas las divisas";
+"saving_currency_info" = "Esta cuenta será guardada en ";
+"no_set_currency" = "divisa indefinida.";
+"bill_currency_saved" = "Esta cuenta fue guardada en";
+
+// MARK: - Onboarding
+"split_bills" = "Divida cuentas";
+"split_bills_description" = "Divida cuentas con amigos igualmente o equitativamente.";
+"save_bills" = "Guarde cuentas";
+"save_bills_description" = "Guarde sus cuentas para revisarlas más tarde.";
+"select_currencies_description" = "Seleccione la mejor moneda para la ocación.";
+"organize_with_tags" = "Organizar con Tags";
+"tags_description" = "Organice sus cuentas con categorías personalizadas.";
+"continue" = "Continuar";
+
+// MARK: - Accessibility description
+"bill-amount-text-field" = "El total de la cuenta sin propina.";
+"tip-to-add" = "La propina agregada.";
+"total-with-tip" = "El total de la cuenta con la propina agregada.";
+"divides-the-bill-equally" = "Divide la cuenta para que todos paguen lo mismo.";
+"person-name-text-field" = "Nombre.";
+"person-consumed-field" = "Cuánto consumió.";
+"contribution-to-make" = "Cuánto debe contribuir con propina.";
+"dismiss-keyboard" = "Ocultar teclado.";
+"tip-percentage" = "Porcentaje de propina.";
+"reset-divider" = "Borrar la información escrita.";
+"create-category-button" = "Crear categoría.";
+"search-currencies" = "Buscar tipos de cambio.";
+
+// MARK: - Privacy
+"privacy" = "Privacidad";
